@@ -2,7 +2,7 @@
 
 ### 安全认证 Auth
 
-### 服务互通 API Gate
+### 服务互通 API GateWay
 
 ### 数据存储 BigData
 
